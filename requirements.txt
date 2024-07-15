@@ -1,0 +1,7 @@
+axios
+@anthropic-ai/sdk
+dotenv
+csv-parser
+typescript
+ts-node
+@types/node
